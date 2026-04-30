@@ -61,6 +61,6 @@ Authorization: Bearer <token>
 
 ## Dominios
 
-Frontend: `https://tu-dominio.com`
+Frontend: pendiente
 
-Backend/API: `https://api.tu-dominio.com`
+Backend/API: pendiente
