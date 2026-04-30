@@ -1,0 +1,14 @@
+Microsoft Windows [Versión 10.0.26200.7623]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\57321\web_project_around_react>npm create vite@latest . -- --yes
+
+> 57321@1.0.0 npx
+> create-vite . --yes
+
+[90m—[39m  [31mOperation cancelled[39m
+
+
+C:\Users\57321\web_project_around_react>cd web_project_around_react
+
+C:\Users\57321\web_project_around_react>
