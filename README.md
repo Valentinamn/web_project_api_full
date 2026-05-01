@@ -61,6 +61,6 @@ Authorization: Bearer <token>
 
 ## Dominios
 
-Frontend: pendiente
+Frontend: https://valentina-mn14.com.chickenkiller.com
 
-Backend/API: pendiente
+Backend/API: https://api.valentina-mn14.com.chickenkiller.com
