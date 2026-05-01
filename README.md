@@ -1,5 +1,39 @@
 # Tripleten web_project_api_full
 
+## Descripcion
+
+Aplicacion full stack para compartir tarjetas con imagenes. Permite registrar usuarios, iniciar sesion, editar perfil, actualizar avatar, crear y eliminar tarjetas, y agregar o quitar likes.
+
+## Funcionalidad
+
+- Registro y autorizacion de usuarios.
+- Inicio de sesion con JWT.
+- Proteccion de rutas privadas.
+- Edicion de perfil y avatar.
+- Creacion y eliminacion de tarjetas.
+- Likes y dislikes en tarjetas.
+- Validacion de datos en el servidor.
+- Manejo centralizado de errores.
+- Registro de solicitudes y errores.
+- Despliegue en servidor remoto con HTTPS.
+
+## Tecnologias
+
+- React
+- Vite
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+- JWT
+- bcryptjs
+- Celebrate/Joi
+- Winston
+- Nginx
+- PM2
+- Google Cloud
+- Certbot/HTTPS
+
 Proyecto full stack con estructura:
 
 ```txt
